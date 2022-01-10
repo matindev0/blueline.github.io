@@ -1,9 +1,9 @@
 :root {
-  --main-color: #000;
+  --main-color: #525373;
   --background: #f0eefc;/* 525373*/
   --secondary: pink;
   --link: #f54254;
-  --text-color: #000;
+  --text-color: #525373;
   --secondary-text-color: #e36262;
 }
 
@@ -43,7 +43,7 @@
   border-radius: 50%;
   box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
   margin: 0 8px;
-  color: #fff;
+  color: #000;
   opacity: 0.75;
 }
 
