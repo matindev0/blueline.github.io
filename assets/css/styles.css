@@ -48,7 +48,7 @@
 }
 
 .footer-dark .item.social > a:hover {
-  background-color: #000;
+  background-color: #474350;
 }
 
 .footer-dark .copyright {
@@ -60,7 +60,7 @@
 
 .features-boxed {
   color: #313437;
-  background-color: #eef4f7;
+  background-color: #000;
 }
 
 .features-boxed p {
