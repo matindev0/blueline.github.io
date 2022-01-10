@@ -13,10 +13,6 @@
   width: 8px;
 }
 
-body{
-  background: black;
-}
-
 ::-webkit-scrollbar-track {
   background: black;
 }
