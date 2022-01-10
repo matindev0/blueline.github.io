@@ -43,12 +43,12 @@
   border-radius: 50%;
   box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
   margin: 0 8px;
-  color: #000;
+  color: #fff;
   opacity: 0.75;
 }
 
 .footer-dark .item.social > a:hover {
-  background-color: #474350;
+  background-color: #000;
 }
 
 .footer-dark .copyright {
